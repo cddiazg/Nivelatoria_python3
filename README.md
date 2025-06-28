@@ -83,9 +83,3 @@ A continuación, se detalla el uso de cada opción:
 
 * **Acción**: Ingresa `6` y presiona Enter.
 * **Resultado**: El programa finalizará su ejecución.
-
----
-Espero que este programa y su manual de usuario te sean de gran ayuda para tu taller. ¿Te gustaría que se añadiera alguna otra funcionalidad o tienes alguna pregunta específica sobre el código?
-=======
-# Nivelatoria_python3
->>>>>>> 1fad0f2af16312d4fb8d4aaa16fa9fd5efac618d
