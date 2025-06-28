@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión Académica para Estudiantes
 
 Este programa en Python es una herramienta sencilla y efectiva diseñada para la gestión de información académica de estudiantes en una institución educativa. Permite realizar operaciones fundamentales como registrar nuevos estudiantes, consultar sus datos, actualizar sus calificaciones, eliminar registros y visualizar un listado completo de todos los estudiantes con sus promedios.
@@ -85,3 +86,6 @@ A continuación, se detalla el uso de cada opción:
 
 ---
 Espero que este programa y su manual de usuario te sean de gran ayuda para tu taller. ¿Te gustaría que se añadiera alguna otra funcionalidad o tienes alguna pregunta específica sobre el código?
+=======
+# Nivelatoria_python3
+>>>>>>> 1fad0f2af16312d4fb8d4aaa16fa9fd5efac618d
